@@ -1,6 +1,6 @@
 # python-pdf-tool
 
-## Description
+### Description
 A command line tool for working with PDFs with the following features:
 - Convert images and Microsoft Docs, Power-points, and Excel spreadsheets to PDFs
 - Convert PDFs and Microsoft Docs, Power-points, and Excel spreadsheets to images
@@ -10,13 +10,13 @@ A command line tool for working with PDFs with the following features:
 - Split a PDF into multiple PDF files
 - Delete pages from a PDF
 
-## Installation
+### Installation
 tbd
 
-## Usage
+### Usage
 tbd
 
-## MIT License
+### MIT License
 Copyright (c) 2020 Cole Gravelle
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
